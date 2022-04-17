@@ -1,0 +1,41 @@
+.center{
+    display: block;
+    text-align: center;
+    padding: 15px 15px;
+}
+
+.headerfont{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.listfont{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.leftpic{
+    left: 1px;
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+.rightpic{
+    right: 1px;
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+
+.fampic{
+    width: 403.2px;
+    height: 302.4px;
+}
+
+.interestfont{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkgreen;
+}
+
+.aboutheader{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
