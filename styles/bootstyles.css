@@ -1,0 +1,34 @@
+.tableaucharts{
+    width: 50%;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.mydiv{
+    position: absolute;
+}
+
+.tababout{
+    padding-left: 100px;
+}
+
+.theader{
+    top: 0px;
+    height: 50px;
+    left: 0px;
+    right: 0px;
+}
+
+.tfooter{
+    bottom: 0px;
+    height: 50px;
+    left: 0px;
+    right: 0px;
+    font-size: 20px;
+}
+
+.center{
+    display: block;
+    text-align: center;
+    padding: 30px 15px;
+}
